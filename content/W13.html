@@ -155,7 +155,8 @@ img.add_border {
           
         </header>
     <div id="tipue_search_content">W12 << <a href='W12.html'>Previous</a> <br /><h1>W13</h1>
-<p>任務說明 :  沿用 W11 ~ W12 的方式，網頁中在Htmlt程式新增一個 Temp2 的按鈕，並且在近端新增 dart檔、yaml檔、index檔 和 style檔，<span>提交推送使網頁能成功顯示，</span>不管輸入的溫度是攝氏或者華氏，可以轉換成 攝氏或者華氏 ，所有動作完成之後，錄製影片說明操作步驟。</p>
+<p>任務說明 :  沿用 W11 ~ W12 的方式，網頁中在Htmlt程式新增一個 Temp2 的按鈕，並且在近端新增 dart檔、yaml檔、html檔 和 style檔，<span>提交推送使網頁能成功顯示，</span>不管輸入的溫度是攝氏或者華氏，可以轉換成 攝氏或者華氏 ，所有動作完成之後，錄製影片說明操作步驟。</p>
+<p>小提醒 : 記得要確認好檔案所放的路徑位置，以及網頁程式碼有沒有打錯，如果網頁程式碼不確認哪裡有錯誤，個人建議刪掉重新打，增加印象。</p>
 <script>
 function getDart(dirname){
     source = "https://dartpad.github.io/embed-dart.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/" + dirname + "&theme=dark";
@@ -167,10 +168,6 @@ function getHtmlDart(dirname){
 document.getElementById("iframe").src = source ;
 }
 
-function getFlutter(dirname){
-    source = "https://dartpad.github.io/embed-flutter.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/"  + dirname + "&theme=dark";
-document.getElementById("iframe").src = source ;
-}
 
 function largest(){
 document.getElementById("iframe").width = document.body.clientWidth ;
@@ -178,7 +175,7 @@ document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
 }
 
 function original(){
-document.getElementById("iframe").width = 800 ;
+document.getElementById("iframe").width = 900 ;
 document.getElementById("iframe").height = 600 ;
 }
 </script>
@@ -188,7 +185,11 @@ document.getElementById("iframe").height = 600 ;
 <h4>Html 程式</h4>
 <p><button onclick="getHtmlDart('temp2')">Temp2</button> <!-- 內建放入的 Dart 原始碼 --></p>
 <p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
-<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/cf_change&amp;theme=dark" width="800"></iframe></p><br />W12 << <a href='W12.html'>Previous</a> </div>
+<p></p>
+<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/cf_change&amp;theme=dark" width="900"></iframe></p>
+<p></p>
+<p>教學影片</p>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="800" src="https://www.youtube.com/embed/GK1Z8Q-zDZU" width="900"></iframe></p><br />W12 << <a href='W12.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">

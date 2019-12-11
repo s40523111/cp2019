@@ -2,12 +2,12 @@
 import "dart:html";
 
 // celsius = 5/9 ( fahrenheit − 32)
-// 定義一個 celsius 轉 fahrenheit  函式
+// 定義 攝氏 轉 華氏  的函式
 CtoF(num c){
 return c*9/5 + 32;
 }
 
-// 定義一個 celsius 轉 fahrenheit  函式
+// 定義 華氏 轉 攝氏 的函式
 FtoC(num f){
 return (f - 32)*5/9;
 }
