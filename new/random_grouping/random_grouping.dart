@@ -21,7 +21,7 @@ Grouping() {
   if (studListUrl.value != "") {
     studUrl = studListUrl.value;
   } else {
-    studUrl = 'https://mde.tw/cp2019/downloads/2019fall_cp_1a_list.txt';
+    studUrl = 'https://github.com/s40523111/cp2019/tree/master/new/random_grouping/cp2019_1b_list.txt;
   }
 
   // 組序由 1 開始
