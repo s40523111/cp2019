@@ -182,35 +182,21 @@ document.getElementById("iframe").height = 600 ;
 <p>教學影片</p>
 <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="800" src="https://www.youtube.com/embed/GK1Z8Q-zDZU" width="900"></iframe></p>
 <h2>W14</h2>
-<script src="/get_page/downloads/web_guessing.js"></script>
+<script src="/downloads/web_guessing.js"></script>
 <p><canvas height="200" id="canvas" width="300"></canvas></p>
+<script src="/new/roc_flag demo/roc_flag.js"></script>
 <h2>W15</h2>
-<script>
-function getDart(dirname){
-    source = "https://dartpad.github.io/embed-dart.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/" + dirname + "&theme=dark";
-    document.getElementById("iframe").src = source ;
-}
-
-function getHtmlDart(dirname){
-    source = "https://dartpad.github.io/embed-html.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/"  + dirname + "&theme=dark";
-document.getElementById("iframe").src = source ;
-}
-
-
-function largest(){
-document.getElementById("iframe").width = document.body.clientWidth ;
-document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
-}
-
-function original(){
-document.getElementById("iframe").width = 1200 ;
-document.getElementById("iframe").height = 900 ;
-}
-</script>
-<!-- 取 Dart 程式的按鈕 -->
+<p>任務一 :  建立亂數分組的 Html 按鈕</p>
 <h4>Html 程式</h4>
 <p><button onclick="getHtmlDart('random_grouping')">亂數分組</button> <!-- 內建放入的 Dart 原始碼 --></p>
 <p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
 <p></p>
 <p><iframe height="900" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/random_grouping&amp;theme=dark" width="1200"></iframe></p>
 <p></p>
+<p>任務二 : 建立表單式的 亂數分組按鈕</p>
+<p></p>
+<p><!--  ############################### --></p>
+<h4>亂數分組:</h4>
+<p>學員名單 URL: <input id="studListUrl" size="50" type="text" value="https://mde.tw/cp2019/downloads/2019fall_cp_1b_list.txt"/><br/> 每組人數: <input id="grpNum" size="3" type="text" value="10"/><br/> <input id="submit" type="submit" value="開始分組"/><br/> <textarea cols="80" id="output" rows="10"></textarea></p>
+<script src="/new/random_grouping/random_grouping.js"></script>
+<p><!-- ############################## --></p>
