@@ -6,13 +6,13 @@ void main() {
     if (i[3] == "g") {
       var o = (i[0] + i[1]);
       var kg = num.parse(o);
-      num lb = kg * 2.20462262;
+      num lb = kg * 2.2046;
       print("$kg 公斤等於 $lb 磅");
     }
     if (i[3] == "b") {
       var o = (i[0] + i[1]);
       var lb = num.parse(o);
-      num kg = lb * 0.45359237;
+      num kg = lb * 0.4535;
       print("$lb 磅 等於 $kg 公斤");
     }
   }
