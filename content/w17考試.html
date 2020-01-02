@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li class='has-children'><a href='任務.html'>任務</a><ul class='dropdown'><li><a href='W2.html'>W2</a><li><a href='W3.html'>W3</a><li><a href='W4.html'>W4</a><li><a href='W6.html'>W6</a><li><a href='w8.html'>w8</a><li><a href='w10.html'>w10</a><li><a href='W11.html'>W11</a><li><a href='W12.html'>W12</a><li><a href='W13.html'>W13</a><li><a href='W14.html'>W14</a><li><a href='W15.html'>W15</a><li><a href='W16.html'>W16</a></li>
+                     <li><a href='About.html'>About</a><li class='has-children'><a href='任務.html'>任務</a><ul class='dropdown'><li><a href='W2.html'>W2</a><li><a href='W3.html'>W3</a><li><a href='W4.html'>W4</a><li><a href='W6.html'>W6</a><li><a href='w8.html'>w8</a><li><a href='w10.html'>w10</a><li><a href='W11.html'>W11</a><li><a href='W12.html'>W12</a><li><a href='W13.html'>W13</a><li><a href='W15.html'>W15</a><li><a href='W16.html'>W16</a><li><a href='w17考試.html'>w17考試</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,11 +154,39 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">W13 << <a href='W13.html'>Previous</a> <a href='W15.html'>Next</a> >> W15<br /><h1>W14</h1>
-<script src="./../downloads/web_guessing.js"></script>
-<p><canvas height="200" id="canvas" width="300"></canvas></p>
-<script src="/new/roc_flag demo/roc_flag.js"></script>
-<br />W13 << <a href='W13.html'>Previous</a> <a href='W15.html'>Next</a> >> W15</div>
+    <div id="tipue_search_content">W16 << <a href='W16.html'>Previous</a> <br /><h1>w17考試</h1>
+<script>
+function getDart(dirname){
+    source = "https://dartpad.github.io/embed-dart.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/" + dirname + "&theme=dark";
+    document.getElementById("iframe").src = source ;
+}
+
+function getHtmlDart(dirname){
+    source = "https://dartpad.github.io/embed-html.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/"  + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+
+function largest(){
+document.getElementById("iframe").width = document.body.clientWidth ;
+document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
+}
+
+function original(){
+document.getElementById("iframe").width = 900 ;
+document.getElementById("iframe").height = 600 ;
+}
+</script>
+<!-- 取 Dart 程式的按鈕 -->
+<h4>純 Dart 程式</h4>
+<p><button onclick="getDart('kg_lb')">重量轉換</button></p>
+<h4>Html 程式</h4>
+<p><button onclick="getHtmlDart('kg_lb2')">重量轉換</button> <!-- 內建放入的 Dart 原始碼 --></p>
+<p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
+<p></p>
+<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/kg_lb&amp;theme=dark" width="900"></iframe></p>
+<p>請輸入所要轉換的重量<br/>以數字加上 kg 或 lb:<br/><br/><input id="temp" max="30" min="1" type="text" value="20kg"/> <input id="submit" type="button" value="換算"/><br/> <br/>轉換結果:<br/><br/><label id="output"></label></p>
+<script src="/../cp2019/new/kg_lb3/weight.js"></script><br />W16 << <a href='W16.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">

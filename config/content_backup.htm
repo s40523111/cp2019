@@ -181,10 +181,6 @@ document.getElementById("iframe").height = 600 ;
 <p></p>
 <p>教學影片</p>
 <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="800" src="https://www.youtube.com/embed/GK1Z8Q-zDZU" width="900"></iframe></p>
-<h2>W14</h2>
-<script src="/downloads/web_guessing.js"></script>
-<p><canvas height="200" id="canvas" width="300"></canvas></p>
-<script src="/new/roc_flag demo/roc_flag.js"></script>
 <h2>W15</h2>
 <p>任務一 :  建立亂數分組的 Html 按鈕</p>
 <p></p>
@@ -214,7 +210,8 @@ document.getElementById("iframe").height = 600 ;
 <p><button onclick="getHtmlDart('random_grouping')">亂數分組</button> <!-- 內建放入的 Dart 原始碼 --></p>
 <p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
 <p></p>
-<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/random_grouping&amp;theme=dark" width="900"></iframe></p><h2>W16</h2>
+<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/random_grouping&amp;theme=dark" width="900"></iframe></p>
+<h2>W16</h2>
 <script>
 function getDart(dirname){
     source = "https://dartpad.github.io/embed-dart.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/" + dirname + "&theme=dark";
@@ -242,3 +239,36 @@ document.getElementById("iframe").height = 600 ;
 <p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
 <p></p>
 <p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/usa&amp;theme=dark" width="900"></iframe></p>
+<p>影片</p>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="720" src="https://www.youtube.com/embed/toCpZwJkveE" width="1280"></iframe></p>
+<h2>w17考試</h2>
+<script>
+function getDart(dirname){
+    source = "https://dartpad.github.io/embed-dart.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/" + dirname + "&theme=dark";
+    document.getElementById("iframe").src = source ;
+}
+
+function getHtmlDart(dirname){
+    source = "https://dartpad.github.io/embed-html.html?gh_owner=s40523111&gh_repo=cp2019&gh_path=new/"  + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+
+function largest(){
+document.getElementById("iframe").width = document.body.clientWidth ;
+document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
+}
+
+function original(){
+document.getElementById("iframe").width = 900 ;
+document.getElementById("iframe").height = 600 ;
+}
+</script>
+<!-- 取 Dart 程式的按鈕 -->
+<h4>純 Dart 程式</h4>
+<p><button onclick="getDart('kg_lb')">重量轉換</button></p>
+<h4>Html 程式</h4>
+<p><button onclick="getHtmlDart('kg_lb2')">重量轉換</button> <!-- 內建放入的 Dart 原始碼 --></p>
+<p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
+<p></p>
+<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;gh_repo=cp2019&amp;gh_path=new/kg_lb&amp;theme=dark" width="900"></iframe></p>
