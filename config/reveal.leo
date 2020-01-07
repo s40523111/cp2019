@@ -47,9 +47,7 @@
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 計算機程式期末報告
-
-###CP2019
-
+##CP2019
 
 &lt;small&gt;
 Created by 40523111
@@ -91,9 +89,12 @@ Created by 40523111
 						
 </t>
 <t tx="leo.20180902120523.15"># 初期
-* 認識 Github 
-* 學習基本的 Python 指令
-* 使用 CMSIMDE 網站
+
+1. 認識 Github 
+
+2.學習基本的 Python 指令
+
+3. 使用 CMSIMDE 網站
 
 
 
@@ -111,9 +112,11 @@ Created by 40523111
 </t>
 <t tx="leo.20180902120523.17">#中期
 
-*學習簡單的程式碼
-*使用LEO
-*拍攝影片上字幕</t>
+1.學習簡單的程式碼
+
+2.使用LEO
+
+3.拍攝影片上字幕</t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -125,11 +128,11 @@ Created by 40523111
 </t>
 <t tx="leo.20180902120523.19">#後期
 
-*建立小組
+1.建立小組
 
-*使用SSH
+2.使用SSH
 
-*使用程式
+3.使用程式
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
