@@ -90,11 +90,11 @@ Created by 40523111
 </t>
 <t tx="leo.20180902120523.15"># 初期
 
-1. 認識 Github 
+* 認識 Github 
 
-2.學習基本的 Python 指令
+* 學習基本的 Python 指令
 
-3. 使用 CMSIMDE 網站
+* 使用 CMSIMDE 網站
 
 
 
