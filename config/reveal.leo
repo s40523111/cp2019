@@ -36,7 +36,6 @@
 <v t="leo.20200107233432.1"><vh>心得</vh>
 <v t="leo.20200107233432.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh></v>
 </v>
 </v>
 </v>
@@ -57,7 +56,9 @@ Created by 40523111
 &lt;/small&gt;
 
 [倉儲](https://github.com/s40523111/cp2019)
+
 [個人網站](https://s40523111.github.io/cp2019)
+
 [教學影片]( https://www.youtube.com/playlist?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ)
 </t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
@@ -76,11 +77,6 @@ Created by 40523111
 * 後期 
 * 心得
 
-
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
 
 </t>
 <t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
@@ -114,6 +110,7 @@ Created by 40523111
 						
 </t>
 <t tx="leo.20180902120523.17">#中期
+
 *學習簡單的程式碼
 *使用LEO
 *拍攝影片上字幕</t>
@@ -127,8 +124,11 @@ Created by 40523111
 						
 </t>
 <t tx="leo.20180902120523.19">#後期
+
 *建立小組
+
 *使用SSH
+
 *使用程式
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -311,9 +311,12 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200107233432.2">#心得
+
 &lt;/small&gt;
 首先這門課真的很需要一本筆記本作筆記，因為新的知識沒辦法在第一次就完全進入腦袋，記錄下來，隨時要查就有。
+
 如今社會網路必備，線上倉儲就顯得非常方便，資料整合更新非常的快，尤其小組分工不用冒險的直接合併倉儲，可以直接檢查對方修改或者增加了哪些東西，再去取捨。
+
 另外程式是一個非常好的工具，懂得程式的話，做事的效率必定有一定程度上的提升，在未來不可或缺。</t>
 </tnodes>
 </leo_file>
