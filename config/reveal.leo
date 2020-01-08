@@ -343,7 +343,7 @@ vertical: body pane on the botton</t>
 
 
 						</t>
-<t tx="leo.20200107233432.2">###心得
+<t tx="leo.20200107233432.2">### 心得
 
 &lt;/small&gt;
 首先這門課真的很需要一本筆記本作筆記，因為新的知識沒辦法在第一次就完全進入腦袋，記錄下來，隨時要查就有。
@@ -461,17 +461,20 @@ vertical: body pane on the botton</t>
 
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/IvTK8ZJpzR4?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
 <t tx="leo.20200109021749.1">### 溫度轉換
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/cf_change&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
+
+&lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/cf_change&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109021807.1">### 溫度判別 
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/temp2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;
-</t>
+
+&lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/temp2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109021835.1">### 亂數分組 html 按鈕
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/random_grouping&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
+
+&lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/random_grouping&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109021859.1">### 美國國旗
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/usa&amp;amp;theme=dark"&gt;&lt;/iframe&gt;
-</t>
+
+&lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/usa&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109021931.1">### 重量轉換
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/kg_lb2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
+
+&lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/kg_lb2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109022004.1">### W16 考試
 
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/toCpZwJkveE?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
