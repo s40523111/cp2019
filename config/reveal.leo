@@ -25,40 +25,52 @@
 <v t="leo.20180902120523.12"><vh>目錄</vh></v>
 </v>
 <v t="leo.20180902120523.14"><vh>初期</vh>
-<v t="leo.20180902120523.15"><vh>介紹初期</vh>
-<v t="leo.20200109012734.1"><vh>初期教學影片</vh></v>
+<v t="leo.20180902120523.15"><vh>介紹初期</vh></v>
 </v>
+<v t="leo.20200109012734.1"><vh>初期教學影片</vh>
+<v t="leo.20200109021500.1"><vh>初期教學影片</vh></v>
 </v>
 <v t="leo.20180902120523.16"><vh>中期</vh>
-<v t="leo.20180902120523.17"><vh>介紹中期</vh>
+<v t="leo.20180902120523.17"><vh>介紹中期</vh></v>
+</v>
 <v t="leo.20200109013830.1"><vh>嵌入Dartpad</vh>
-<v t="leo.20200109013139.1"><vh>LEO教學</vh></v>
+<v t="leo.20200109021547.1"><vh>嵌入Dartpad</vh></v>
 </v>
-</v>
+<v t="leo.20200109013139.1"><vh>LEO教學</vh>
+<v t="leo.20200109021617.1"><vh>LEO教學</vh></v>
 </v>
 <v t="leo.20180902120523.18"><vh>後期</vh>
-<v t="leo.20180902120523.19"><vh>介紹後期</vh>
+<v t="leo.20180902120523.19"><vh>介紹後期</vh></v>
+</v>
 <v t="leo.20200109014106.1"><vh>小組作業</vh>
+<v t="leo.20200109021707.1"><vh>小組作業</vh></v>
+</v>
 <v t="leo.20200109014101.1"><vh>溫度轉換</vh>
+<v t="leo.20200109021749.1"><vh>溫度轉換</vh></v>
+</v>
 <v t="leo.20200109014742.1"><vh>溫度判別</vh>
+<v t="leo.20200109021807.1"><vh>溫度判別</vh></v>
+</v>
 <v t="leo.20200109015306.1"><vh>亂數分組</vh>
+<v t="leo.20200109021835.1"><vh>亂數分組</vh></v>
+</v>
 <v t="leo.20200109015525.1"><vh>美國國旗</vh>
+<v t="leo.20200109021859.1"><vh>美國國旗</vh></v>
+</v>
 <v t="leo.20200109015914.1"><vh>重量轉換</vh>
+<v t="leo.20200109021931.1"><vh>重量轉換</vh></v>
+</v>
 <v t="leo.20200109015605.1"><vh>W16 考試</vh>
-<v t="leo.20200109015626.1"><vh>W17 考試</vh></v>
+<v t="leo.20200109022004.1"><vh>W16 考試</vh></v>
 </v>
-</v>
-</v>
-</v>
-</v>
-</v>
-</v>
-</v>
+<v t="leo.20200109015626.1"><vh>W17 考試</vh>
+<v t="leo.20200109022010.1"><vh>W17 考試</vh></v>
 </v>
 <v t="leo.20200107233432.1"><vh>心得</vh>
-<v t="leo.20200107233432.2"><vh>心得</vh>
-<v t="leo.20200109020024.1"><vh>自評</vh></v>
+<v t="leo.20200107233432.2"><vh>心得</vh></v>
 </v>
+<v t="leo.20200109020024.1"><vh>自評</vh>
+<v t="leo.20200109022054.1"><vh>自評</vh></v>
 </v>
 </v>
 </v>
@@ -333,8 +345,6 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
 <t tx="leo.20200107233432.2">#心得
 
@@ -344,34 +354,103 @@ vertical: body pane on the botton</t>
 如今社會網路必備，線上倉儲就顯得非常方便，資料整合更新非常的快，尤其小組分工不用冒險的直接合併倉儲，可以直接檢查對方修改或者增加了哪些東西，再去取捨。
 
 另外程式是一個非常好的工具，懂得程式的話，做事的效率必定有一定程度上的提升，在未來不可或缺。</t>
-<t tx="leo.20200109012734.1"># CMSIMDE 教學
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ohwc0K95Juo?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;
+<t tx="leo.20200109012734.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200109013139.1"> # LEO 教學影片
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PqxZN_sVfSM?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;
-
+<t tx="leo.20200109013139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
 </t>
-<t tx="leo.20200109013830.1"># Dartpad引入Gist中的Dart程式
+<t tx="leo.20200109013830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109014101.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109014106.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109014742.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109015306.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109015525.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109015605.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109015626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109015914.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109020024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109021500.1"># CMSIMDE 教學
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ohwc0K95Juo?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
+<t tx="leo.20200109021547.1"># Dartpad引入Gist中的Dart程式
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/hello&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109014101.1"># 溫度轉換
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/cf_change&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109014106.1">#小組作業
+<t tx="leo.20200109021617.1"> # LEO 教學影片
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PqxZN_sVfSM?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;
+</t>
+<t tx="leo.20200109021707.1">#小組作業
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/IvTK8ZJpzR4?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
-<t tx="leo.20200109014742.1"># 溫度判別 html 按鈕
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/temp2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109015306.1"># 亂數分組 html 按鈕
+<t tx="leo.20200109021749.1"># 溫度轉換
+&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/cf_change&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109021807.1"># 溫度判別 html 按鈕
+&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/temp2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109021835.1"># 亂數分組 html 按鈕
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/random_grouping&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109015525.1"># 美國國旗
-&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/usa&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109015605.1"># W16 考試
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/toCpZwJkveE?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
-<t tx="leo.20200109015626.1"># W17 考試
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Ued1oeuwyhk?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
-<t tx="leo.20200109015914.1"># 重量轉換
+<t tx="leo.20200109021859.1"># 美國國旗
+&lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/usa&amp;amp;theme=dark"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109021931.1"># 重量轉換
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/kg_lb2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109020024.1"># 自評:70分
+<t tx="leo.20200109022004.1"># W16 考試
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/toCpZwJkveE?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
+<t tx="leo.20200109022010.1"># W17 考試
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Ued1oeuwyhk?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
+<t tx="leo.20200109022054.1"># 自評:70分
 
 &lt;/small&gt;
 雖然我在這門課沒有學到相當出色，但是 例如:影片上字幕、管理倉儲/網站、使用SSH提交推送、建立按鈕...等等都能達成，另外學弟妹在課業上需要幫忙，我也會盡我所能的幫助他們，就目前所學的程度比起大一時學的更多，更能了解課堂中的所需的基本知識。</t>
