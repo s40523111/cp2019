@@ -25,28 +25,40 @@
 <v t="leo.20180902120523.12"><vh>目錄</vh></v>
 </v>
 <v t="leo.20180902120523.14"><vh>初期</vh>
-<v t="leo.20180902120523.15"><vh>介紹初期</vh></v>
+<v t="leo.20180902120523.15"><vh>介紹初期</vh>
 <v t="leo.20200109012734.1"><vh>初期教學影片</vh></v>
 </v>
+</v>
 <v t="leo.20180902120523.16"><vh>中期</vh>
-<v t="leo.20180902120523.17"><vh>介紹中期</vh></v>
-<v t="leo.20200109013830.1"><vh>嵌入Dartpad</vh></v>
+<v t="leo.20180902120523.17"><vh>介紹中期</vh>
+<v t="leo.20200109013830.1"><vh>嵌入Dartpad</vh>
 <v t="leo.20200109013139.1"><vh>LEO教學</vh></v>
 </v>
+</v>
+</v>
 <v t="leo.20180902120523.18"><vh>後期</vh>
-<v t="leo.20180902120523.19"><vh>介紹後期</vh></v>
-<v t="leo.20200109014106.1"><vh>小組作業</vh></v>
-<v t="leo.20200109014101.1"><vh>溫度轉換</vh></v>
-<v t="leo.20200109014742.1"><vh>溫度判別</vh></v>
-<v t="leo.20200109015306.1"><vh>亂數分組</vh></v>
-<v t="leo.20200109015525.1"><vh>美國國旗</vh></v>
-<v t="leo.20200109015914.1"><vh>重量轉換</vh></v>
-<v t="leo.20200109015605.1"><vh>W16 考試</vh></v>
+<v t="leo.20180902120523.19"><vh>介紹後期</vh>
+<v t="leo.20200109014106.1"><vh>小組作業</vh>
+<v t="leo.20200109014101.1"><vh>溫度轉換</vh>
+<v t="leo.20200109014742.1"><vh>溫度判別</vh>
+<v t="leo.20200109015306.1"><vh>亂數分組</vh>
+<v t="leo.20200109015525.1"><vh>美國國旗</vh>
+<v t="leo.20200109015914.1"><vh>重量轉換</vh>
+<v t="leo.20200109015605.1"><vh>W16 考試</vh>
 <v t="leo.20200109015626.1"><vh>W17 考試</vh></v>
 </v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
 <v t="leo.20200107233432.1"><vh>心得</vh>
-<v t="leo.20200107233432.2"><vh>心得</vh></v>
+<v t="leo.20200107233432.2"><vh>心得</vh>
 <v t="leo.20200109020024.1"><vh>自評</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -333,42 +345,31 @@ vertical: body pane on the botton</t>
 
 另外程式是一個非常好的工具，懂得程式的話，做事的效率必定有一定程度上的提升，在未來不可或缺。</t>
 <t tx="leo.20200109012734.1"># CMSIMDE 教學
-
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ohwc0K95Juo?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;
 </t>
 <t tx="leo.20200109013139.1"> # LEO 教學影片
- 
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PqxZN_sVfSM?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;
 
 
 
 </t>
 <t tx="leo.20200109013830.1"># Dartpad引入Gist中的Dart程式
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/hello&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109014101.1"># 溫度轉換
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/cf_change&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109014106.1">#小組作業
-
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/IvTK8ZJpzR4?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
 <t tx="leo.20200109014742.1"># 溫度判別 html 按鈕
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/temp2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109015306.1"># 亂數分組 html 按鈕
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/random_grouping&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109015525.1"># 美國國旗
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/usa&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109015605.1"># W16 考試
-
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/toCpZwJkveE?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
 <t tx="leo.20200109015626.1"># W17 考試
-
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Ued1oeuwyhk?list=PLuheK-guL65nFH1DVrtv9W7XTNXP6l_mQ"&gt;&lt;/iframe&gt;&lt;img alt="" height="231" src="/images/chrome_UBhJfwWa7O.png" width="728"&gt;</t>
 <t tx="leo.20200109015914.1"># 重量轉換
-
 &lt;iframe width="800" height="600" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=s40523111&amp;amp;gh_repo=cp2019&amp;amp;gh_path=new/kg_lb2&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200109020024.1"># 自評:70分
 
